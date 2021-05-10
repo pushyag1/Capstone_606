@@ -1,5 +1,5 @@
 # Capstone_606
-## Presentations: 
+## Presentations: https://github.com/pushyag1/Capstone_606/tree/main/Presentation
 Main.py - Contains all the final execution.
 
 FER_camera - has the webcam code to capture images using the camera and display the expression.
