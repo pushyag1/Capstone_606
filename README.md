@@ -9,5 +9,10 @@ FER_Image - the GUI to upload an existing image and display the expression.
 Performance Evaluation - contains evaluation metrics of the model.
 
 Training - contains the model architecture.
+![Options](https://user-images.githubusercontent.com/61035158/117683893-7f079400-b182-11eb-8190-5a8bf10ea6f8.JPG)
 ![FER](https://user-images.githubusercontent.com/61035158/117683795-69926a00-b182-11eb-9eb5-baf6ecff6dd6.JPG)
+![camera](https://user-images.githubusercontent.com/61035158/117683938-89c22900-b182-11eb-81b7-fb432e043fdb.JPG)
+
+
+
 
