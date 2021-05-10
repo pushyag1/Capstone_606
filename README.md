@@ -16,6 +16,8 @@ Training - contains the model architecture.
 
 ## Camera Detection
 ![camera](https://user-images.githubusercontent.com/61035158/117683938-89c22900-b182-11eb-81b7-fb432e043fdb.JPG)
+![camera2](https://user-images.githubusercontent.com/61035158/117696570-72d60380-b18f-11eb-84af-a9852b381df8.JPG)
+
 
 
 
