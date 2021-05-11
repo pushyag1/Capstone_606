@@ -18,7 +18,11 @@ Training - contains the model architecture.
 ![camera](https://user-images.githubusercontent.com/61035158/117683938-89c22900-b182-11eb-81b7-fb432e043fdb.JPG)
 ![camera2](https://user-images.githubusercontent.com/61035158/117696570-72d60380-b18f-11eb-84af-a9852b381df8.JPG)
 
-
+# Recordings:
+Project explainition YouTube recordings:
+https://youtu.be/zzPFtURBzas - Phase 3
+https://youtu.be/hbFJtBZVcTY - Phase 2
+https://youtu.be/kFMspUkgDYg - Phase 1
 
 
 
