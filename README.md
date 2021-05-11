@@ -20,8 +20,11 @@ Training - contains the model architecture.
 
 # Recordings:
 Project explainition YouTube recordings:
+
 https://youtu.be/zzPFtURBzas - Phase 3
+
 https://youtu.be/hbFJtBZVcTY - Phase 2
+
 https://youtu.be/kFMspUkgDYg - Phase 1
 
 
